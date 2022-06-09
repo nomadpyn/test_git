@@ -7,5 +7,6 @@ using namespace std;
 int main(){
 	hello();
 	world();
+	hello();
 	return 0;
 }
