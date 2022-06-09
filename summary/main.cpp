@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(){
-	int a=3;
-	int b=7;
-	cout << "Summ is " <<summ(a,b) << endl;
+	int a=8;
+	int b=12;
+	cout << "Summ is " <<summ(b,a) << endl;
 	return 0;
 }
